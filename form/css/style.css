@@ -1,0 +1,145 @@
+/*<!-- ---------------------------------------- -->
+<!-- MADE BY MEHMETK --> Penguenlerde Uçar :) 
+<!-- DİSCORD:MEHMETK#6066
+<!-- ---------------------------------------- -->*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.arkaplan {
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+.ark1 {
+    text-align: center;
+    padding: 10px;
+    /*FallBack*/
+    background: #00a1ff;
+    background: rgba(255, 178, 12, 0.89);
+    height: 657px;
+    border-right: 1px solid gray;
+}
+
+.formum {
+    margin-left: -15px;
+    width: 665px;
+    height: 657px;
+    background: rgba(255, 255, 255);
+}
+
+.copy {
+    margin-top: 3%;
+    color: #FFFF;
+}
+
+.panelcss {
+    -webkit-transition-duration: 0.8s;
+    /* Safari */
+    transition-duration: 0.8s;
+    border-style: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+    background-color: #1F618D;
+    color: #FFFF;
+    outline: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.panelcss:hover {
+    background-color: #2ECC71;
+    color: #FFFF;
+    outline: none;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dy {
+    border: solid 2px #2C3E50;
+    border-radius: 8px;
+    height: 250px;
+    margin-top: 30%;
+    font-size: 16px;
+    background-color: rgba(40, 55, 71, 0.7);
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dy1 {
+    border-bottom: solid 2px #2C3E50;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #FFFF;
+}
+
+.dy2 {
+    padding: 10px;
+    text-align: left;
+    color: #ECF0F1;
+}
+
+.modal-m {}
+
+.modal-k {
+    text-align: center;
+    color: #FFFF;
+    background-color: rgba(28, 40, 51);
+}
+
+
+/*custom font*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+/*Panel Css */
+
+.pimg {
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    margin-right: 150px;
+    margin-top: 15px;
+}
+
+.pbtn {
+    background-color: #34495E;
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    border-style: none;
+    color: #FFFF;
+    padding: 5px;
+    border-radius: 5px;
+}
